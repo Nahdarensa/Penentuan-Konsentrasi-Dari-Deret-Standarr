@@ -95,7 +95,7 @@ def main():
         st.markdown('<img src="https://jonmgomes.com/wp-content/uploads/2020/05/Comp_1.gif" class="my-gif">', unsafe_allow_html=True)
         st.write(' ')
         st.write(' ')
-        st.write('Aplikasi penentu persamaan linear ini dirancang untuk memudahkan pengguna dalam melakukan perhitungan dalam penentuan persamaan linear dan mengurangi kesalahan penempatan data saat menghitung secara manual. Pengguna dapat memilih menu kalkulator untuk dapat menghitung persamaan regresi linear, nilai slope (b), nilai intersept (a), dan nilai koefisien regresi korelasi (r).')
+        st.write('Penentuan konsentrasi dari persamaan regresi deret standar, yang dapat memudahkan para analisis tanpa perlu untuk menghitung secara manual. ENJOY FOR ACCES 🧪👩‍🔬')
 
 if __name__ == '__main__':
     main()
