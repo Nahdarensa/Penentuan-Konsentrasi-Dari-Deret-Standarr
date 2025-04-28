@@ -25,10 +25,10 @@ def main():
     st.title('Penentuan Persamaan Regresi Linearitas')
 
     # CSS untuk mengubah warna latar belakang, sidebar, dan ukuran font
-    background_color = "#A60404"
-    font_size = "25px"  # Ukuran font untuk teks biasa
-    header_font_size = "40px"  # Ukuran font untuk header
-    subheader_font_size = "30px"  # Ukuran font untuk subheader
+    background_color = "#AEC6CF#"
+    font_size = "27px"  # Ukuran font untuk teks biasa
+    header_font_size = "50px"  # Ukuran font untuk header
+    subheader_font_size = "45px"  # Ukuran font untuk subheader
     st.markdown(f"""
         <style>
         .stApp {{
